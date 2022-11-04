@@ -2,7 +2,7 @@
 
 Just basic bundle which handles html, css, js and images.
 
-**How to install ?**
+## How to install?
 
 Just clone this repo and enter `npm install`.
 
