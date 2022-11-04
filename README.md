@@ -1,2 +1,3 @@
 # basic-webpack
-basic-webpack - just basic bundle which handles html, css, js and images.
+
+Just basic bundle which handles html, css, js and images.
